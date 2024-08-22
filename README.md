@@ -13,4 +13,3 @@ This project aims to develop a deep learning model for predicting the next word 
 
 5- Model Evaluation: The model is evaluated using a set of example sentences to test its ability to predict the next word accurately.
 
-6- Deployment: A Streamlit web application is developed to allow users to input a sequence of words and get the predicted next word in real-time.
